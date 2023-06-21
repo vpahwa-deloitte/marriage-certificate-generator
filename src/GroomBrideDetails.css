@@ -1,0 +1,12 @@
+.marriage-certificate {
+    display: flex;
+    justify-content: center;
+}
+.idContainer {
+    display: flex;
+    justify-content: space-between;
+  }
+  .signatureContainer{
+    display: flex;
+    justify-content: space-between;
+  }
